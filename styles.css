@@ -1,0 +1,9 @@
+body{
+    font-family: Arial, sans-serif;
+}
+#pdf-container{
+    height: 600px;
+}
+#search-input {
+    margin-top: 10px;
+}
